@@ -68,8 +68,3 @@ Once you select this option you need to enter the account number. (Forgot! Told 
 
 
 **README.md pending, Will update soon. Sorry for inconvenience**
-
-- Withdraw / Deposit
-- Cash / Cheque Transactions
-- New Cheque Book
-- View Passbook
